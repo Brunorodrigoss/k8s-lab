@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: confimap-environments
+data:
+  environments: "local, development, staging, production"
