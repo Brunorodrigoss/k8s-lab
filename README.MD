@@ -151,4 +151,3 @@ kubectl get serviceaccounts
 /var/run/secrets/kubernetes.io/serviceaccount
 
 kubectl api-resources
-
